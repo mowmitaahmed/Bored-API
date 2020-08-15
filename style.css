@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'montserrat', sans-serif;
+    text-align: center;
+    background-color: #FFF3CD;
+}
+.app-wrap{
+    min-height: 100vh;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    padding: 20vh 0;
+}
